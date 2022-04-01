@@ -1,0 +1,33 @@
+.title{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.box{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.btn1{
+    padding: 10px;
+    align-items: center;
+    background-color: blue;
+    color: white;
+}
+
+.btn2{
+    padding: 10px;
+    align-items: center;
+    background-color: red;
+    color: white;
+}
